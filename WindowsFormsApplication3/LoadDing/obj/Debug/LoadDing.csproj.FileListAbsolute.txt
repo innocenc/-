@@ -1,0 +1,6 @@
+c:\users\index\documents\visual studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Debug\LoadDing.exe.config
+c:\users\index\documents\visual studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Debug\LoadDing.exe
+c:\users\index\documents\visual studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Debug\LoadDing.pdb
+c:\users\index\documents\visual studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Debug\Newtonsoft.Json.dll
+c:\users\index\documents\visual studio 2013\Projects\WindowsFormsApplication3\LoadDing\obj\Debug\LoadDing.exe
+c:\users\index\documents\visual studio 2013\Projects\WindowsFormsApplication3\LoadDing\obj\Debug\LoadDing.pdb

@@ -1,0 +1,5 @@
+C:\Users\index\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Release\ATT_GET_IMP_DINGDING.exe.config
+C:\Users\index\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Release\ATT_GET_IMP_DINGDING.exe
+C:\Users\index\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\LoadDing\bin\Release\ATT_GET_IMP_DINGDING.pdb
+C:\Users\index\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\LoadDing\obj\Release\ATT_GET_IMP_DINGDING.exe
+C:\Users\index\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\LoadDing\obj\Release\ATT_GET_IMP_DINGDING.pdb
